@@ -8,6 +8,7 @@ Materials: this folder contains several background articles.
 
 
 
+
 ## References
 “AMC Theaters is changing its ticket pricing,” CNN Business. [Online]. Available: https://www.cnn.com/2023/02/06/business/amc-movie-ticket-prices/index.html. [Accessed: 4-Apr-2023]. 
 
