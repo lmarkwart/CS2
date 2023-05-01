@@ -2,7 +2,7 @@
 
 ## Repository Contents: 
 Hook Document: Read this document first to gain the appropriate context and motivation for this case study. The hook document also outlines the required deliverable.  
-Rubric: This document delineates the specifications and goals for this case study and well as further instructions on deploying the appropriate deliverable.
+Rubric: This document delineates the specifications and goals for this case study and well as further instructions on deploying the appropriate deliverable.  
 Data: CSV file with historical stock data. Please feel free to obtain more up to date data [here](https://www.nasdaq.com/market-activity/stocks/amc/historical).  
 Materials: this folder contains several background articles.
 
