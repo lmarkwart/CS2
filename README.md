@@ -1,7 +1,7 @@
-# CS2
-Stock Predictions Case Study 
+# Stock Predictions Case Study 
 
 ## Repository Contents: 
+### Hook Document: Read this document first to gain the appropriate context and motivation for this case study. The hook document also outlines the required deliverable.  
 
 
 
