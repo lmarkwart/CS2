@@ -20,3 +20,5 @@ this folder contains several background articles.
 https://www.forbes.com/sites/qai/2022/09/02/top-meme-stocks-and-meme-stock-rallies/?sh=6ee5f5591b24. [Accessed: 4-Apr-2023]. 
 
 Q.ai , “AMC Stock Breakdown: Is this meme stock a financial winner?,” Forbes, 25-Nov-2022. [Online]. Available: https://www.forbes.com/sites/qai/2022/11/24/amc-stock-breakdown-is-this-meme-stock-a-financial-winner/?sh=23a66ce3492d. [Accessed: 01-May-2023]. 
+
+E. O'Connor, “Time-series forecasting - advanced statistical&nbsp;analysis&nbsp;of the Data,” EPC Group, 17-May-2022. [Online]. Available: https://www.epcgroup.net/time-series-forecasting-advanced-statistical-analysis-of-the-data/. [Accessed: 01-May-2023]. 
