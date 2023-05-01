@@ -1,7 +1,8 @@
 # Stock Predictions Case Study 
 
 ## Repository Contents: 
-## Hook Document: Read this document first to gain the appropriate context and motivation for this case study. The hook document also outlines the required deliverable.  
+## Hook Document 
+Read this document first to gain the appropriate context and motivation for this case study. The hook document also outlines the required deliverable.  
 ## Rubric
 This document delineates the specifications and goals for this case study and well as further instructions on deploying the appropriate deliverable.  
 ## Data 
